@@ -5,7 +5,7 @@
 |:--------|:------:|
 | **План обучения** | [**Перейти**](https://docs.google.com/document/d/1rGIDMlsAOvv-fz3RSrH94sTwf0PgxTdcN3rdHheJD-Y/edit?usp=sharing) |
 | **Численные методы таблица** | [**Перейти**](https://docs.google.com/spreadsheets/d/1V-lYP3TuAvCHrXMMRvEoYvzGehxivFsXZj-XquqzYUs/edit?usp=sharing) |
-
+| **Численные методы конспект** | [**Перейти**](https://docs.google.com/document/d/10tCtoU_6HiafJNtbr8UW2skpo-dDgXmtEqMCAElPd3U/edit?usp=sharing) |
 
 # 🗂️ Папки
 | Папка | Ссылка |
