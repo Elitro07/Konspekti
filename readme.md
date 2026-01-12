@@ -4,7 +4,7 @@
 | Предмет | Ссылка |
 |:--------|:------:|
 | **План обучения** | [**Перейти**](https://docs.google.com/document/d/1rGIDMlsAOvv-fz3RSrH94sTwf0PgxTdcN3rdHheJD-Y/edit?usp=sharing) |
-| **Численные методы** | [**Перейти**](https://docs.google.com/spreadsheets/d/1V-lYP3TuAvCHrXMMRvEoYvzGehxivFsXZj-XquqzYUs/edit?usp=sharing) |
+| **Численные методы таблица** | [**Перейти**](https://docs.google.com/spreadsheets/d/1V-lYP3TuAvCHrXMMRvEoYvzGehxivFsXZj-XquqzYUs/edit?usp=sharing) |
 
 
 # 🗂️ Папки
